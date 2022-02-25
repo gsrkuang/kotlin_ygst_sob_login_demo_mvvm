@@ -1,5 +1,4 @@
 # kotlin_ygst_sob_login_demo_mvvm 项目介绍（MVVM + kotlin 框架）
--------------------------------
 
 使用MVC（java最简单）的版本，想简单点的可以直接去这里 https://github.com/gsrkuang/ygst_sob_login_demo
 
